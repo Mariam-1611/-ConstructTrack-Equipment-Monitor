@@ -9,7 +9,7 @@
 > **Watch the live demo below — equipment detected, classified, and tracked in real time:**
 
 <!-- Replace the link below with your actual screen recording link after uploading to YouTube/Google Drive -->
-[![ConstructTrack Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Click%20Here-red?style=for-the-badge&logo=youtube)]([YOUR_DEMO_VIDEO_LINK_HERE](https://drive.google.com/file/d/1dmuoG0wt7OKR9O7KXyb22ry8hdTXvDwi/view?usp=sharing))
+[![ConstructTrack Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Click%20Here-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1dmuoG0wt7OKR9O7KXyb22ry8hdTXvDwi/view?usp=sharing)
 
 ## 🧠 What It Does
 
