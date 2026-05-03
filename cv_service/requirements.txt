@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+kafka-python==2.0.2
+numpy
+Pillow
+python-dotenv
